@@ -1,0 +1,49 @@
+.bg-nav {
+    background-color: #3b5998;
+    padding: 10px;
+}
+
+.txt-color {
+    color: white;
+}
+
+.head {
+    font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    letter-spacing: normal;
+}
+
+.input {
+    color: #272724;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.button {
+    background: linear-gradient(#67ae55, #578843);
+    background-color: #69a74e;
+    box-shadow: inset 0 1px 1px #a4e388;
+    border-color: #3b6e22 #3b6e22 #2c5115;
+    min-width: 194px;
+    padding: 7px 20px;
+    text-align: center;
+    font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif !important;
+    font-weight: bold !important;
+    letter-spacing: normal;
+    text-rendering: optimizelegibility;
+    border: 1px solid;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    letter-spacing: 1px;
+    position: relative;
+    text-shadow: 0 1px 2px rgb(0 0 0 / 50%);
+}
+
+.bg-badge {
+    background-color: #3b5998;
+    color: white;
+    padding: 5px;
+    border-radius: 6px;
+}
